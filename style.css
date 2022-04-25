@@ -73,3 +73,17 @@ button {
     color: #E5E7EB;
     background-color: #84868c;
 }
+
+.footer {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    color: #E5E7EB;
+}
+
+.footer a{
+    color: #3882F6;
+    font-weight: bold;
+}
