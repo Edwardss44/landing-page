@@ -16,6 +16,13 @@ button {
     border-radius: 7px;
     border: 0px;
     font-weight: bold;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #3881f6eb;
+    text-decoration: none;
+    transition-duration: 0.1s;
 }
 
 .section_a {
@@ -135,7 +142,7 @@ button {
     display: flex;
     justify-content: center;
     background-color: #E5E7EB;
-    padding: 120px;
+    padding: 100px;
 }
 
 .section_3 {
