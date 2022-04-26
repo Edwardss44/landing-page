@@ -1,8 +1,13 @@
 # landing-page
-<h2 align="center">A landing page project from The Odin Project.</h1>
+**LIVE LINK: [HERE](https://edwardsavin.github.io/landing-page/)**
+
+### A landing page project from [The Odin Project](https://www.theodinproject.com/lessons/foundations-landing-page).
 
 <p align="center">
-The design should look like this: 
+The design should look like this:
 </p>
 
-![alt text](https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/odin-project.png)
+![design](https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/odin-project.png)
+
+## Update 1:
+![update1](https://i.imgur.com/77PyHNj.png)
